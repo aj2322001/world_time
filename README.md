@@ -1,16 +1,9 @@
-# world_time
+# World Time
 
-A Flutter application.
+A Flutter application where you can get time of diffrent locations.
 
-## Getting Started
+#### Android Device Screenshots
+<img src="worldTimeDevicePics/android_morning.jpg" width=200> <img src="worldTimeDevicePics/android_night.jpg" width=200> <img src="worldTimeDevicePics/android_editLoc.jpg" width=200> <img src="worldTimeDevicePics/android_loading.jpg" width=200>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Windows Device Screenshots
+<img src="worldTimeDevicePics/Win10_morning.JPG" width=300> <img src="worldTimeDevicePics/Win10editLoc.JPG" width=300> <img src="worldTimeDevicePics/Win10Loading.JPG" width=300> 
